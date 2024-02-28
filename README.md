@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chaiyakorn+Salakhong!;" />
 </h1>
 <h4 align="center">
-    I am studying at Ramkhamhaeng University. Information Technology field.
+    I am studying at Ramkhamhaeng University ( Information Technology )
 </h4>
 <h4 align="center">
     I am interested in web application development and always seeking new experiences.
